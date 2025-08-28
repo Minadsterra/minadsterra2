@@ -1,7 +1,6 @@
 # MINADSTERRA2
 
 
-
 ```bash
 yes | pkg update && yes | pkg upgrade
 ```
@@ -51,10 +50,10 @@ proxychains4 ./minadsterra2
 
 <a href="https://freeimage.host/i/K3slkP4"><img src="https://iili.io/K3slkP4.md.png" alt="K3slkP4.md.png" border="0"></a>
 
+<div></div></br>
 
 
-
-
+<a href="https://freeimage.host/i/K3sG7gR"><img src="https://iili.io/K3sG7gR.md.png" alt="K3sG7gR.md.png" border="0"></a>
 
 
 
